@@ -10,7 +10,10 @@
     "node-telegram-bot-api": "^0.64.0",
     "web3": "^4.5.0",
     "dotenv": "^16.4.1",
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "openai": "^4.0.0",
+    "axios": "^1.6.2",
+    "sharp": "^0.32.6"
   },
   "devDependencies": {
     "nodemon": "^3.0.3"
